@@ -1,0 +1,7 @@
+0 Sports - Skydiving 
+1 Sports - F1 Racing
+2 Sports - Table Tennis
+3 Sports - Volleyball
+4 Sports - Hockey
+5 Sports - Cricket
+6 Sports - Football
